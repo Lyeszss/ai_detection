@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HoloHand JPO Demo",
+  "description": "Interactive 3D hand tracking experiment where users can scan real objects using Gemini Vision and interact with them in a physics-enabled environment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
